@@ -1,0 +1,2317 @@
+{
+  "products": [
+    {
+      "name": "Apple iPhone 15 128 ГБ",
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "brandId": 4,
+      "price": "1700",
+      "discount": "",
+      "hasDiscount": false,
+      "isNew": true,
+      "description": "NEW Description Smartphone Apple iPhone 15 128 GB, Dual nano SIM, pink",
+      "properties": {
+        "id": 102322338912,
+        "screen": "6.1 (2556x1179) OLED",
+        "memory": "128 gb",
+        "battery": "6400 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11778691/img_id1668632208685720845.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11368570/img_id4737441109286545239.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11771522/img_id5911767111392882674.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11368570/img_id3194117711258097686.jpeg/600x800"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Apple iPhone 13 128 GB",
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "brandId": 4,
+      "price": "730",
+      "discount": "700",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Smartphone Apple iPhone 13 128 GB, nano SIM+eSIM, dark night",
+      "properties": {
+        "id": 101446177750,
+        "screen": "6.1 (2532x1170) OLED 60 Гц",
+        "memory": "128 gb",
+        "battery": "3240 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5376414/img_id9062539055468758161.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5376414/img_id9062539055468758161.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5236803/img_id3618200011730407053.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/6069165/img_id9175239698169644363.jpeg/600x800"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Computer headset HyperX Cloud II",
+      "categoryId": 2,
+      "subCategoryId": 12,
+      "brandId": 3,
+      "price": "76",
+      "discount": "72",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Computer headset HyperX Cloud II, red",
+      "properties": {
+        "id": 100360515521,
+        "screen": "",
+        "memory": "",
+        "battery": ""
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4493022/img_id9190442990806476337.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4493022/img_id9190442990806476337.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/3725687/img_id8932744894419435461.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5341376/img_id3541927203745356231.jpeg/600x800"
+        }
+      ],
+      "id": 64
+    },
+    {
+      "name": "Laptop Apple MacBook Air 13 Late 2020",
+      "categoryId": 2,
+      "subCategoryId": 10,
+      "brandId": 4,
+      "price": "3440",
+      "discount": "3200",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "13.3 Laptop Apple MacBook Air 13 Late 2020 2560x1600, Apple M1 3.2 GHz, RAM 8 GB, DDR4, SSD 256 gb, Apple graphics 7-core, macOS, MGN63SA/A, space gray, English keyboard",
+      "properties": {
+        "id": 101358199775,
+        "screen": "13.3 (2560x1600) IPS, 60 Hz",
+        "memory": "256 gb",
+        "battery": "8400 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5258494/img_id8024084943893703521.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5278457/img_id3999727274457569122.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5234219/img_id3431806457963529524.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5234219/img_id2243874471012996137.jpeg/600x800"
+        }
+      ],
+      "id": 51
+    },
+    {
+      "name": "Apple iPhone 14 128 GB",
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "brandId": 4,
+      "price": "780",
+      "discount": "699",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Smartphone Apple iPhone 14 128 GB, Dual nano SIM, dark night",
+      "properties": {
+        "id": 101830766776,
+        "screen": "6.1 (2532x1170) OLED 60 Гц",
+        "memory": "128 gb",
+        "battery": "3279 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11368503/img_id3943652839628234296.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/10576558/img_id4904721577923940961.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11414233/img_id4942387914856301121.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11375416/img_id5502779975666084262.jpeg/600x800"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Xiaomi POCO M5 4/64 GB Global",
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "brandId": 2,
+      "price": "980",
+      "discount": "",
+      "hasDiscount": false,
+      "isNew": true,
+      "description": "Smartphone Xiaomi POCO M5 4/64 GB Global, Dual nano SIM, black",
+      "properties": {
+        "id": 101840528771,
+        "screen": "6.58 (2408x1080) IPS 90Hz",
+        "memory": "64 gb",
+        "battery": "5000 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/12390131/img_id3228513487388744777.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11382628/img_id6710931591584198822.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/12500095/img_id3546685006717324079.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11047949/img_id1866837349415429100.jpeg/600x800"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Xiaomi Redmi Note 12S 8 256Gb",
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "brandId": 2,
+      "price": "870",
+      "discount": "830",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Smartphone Xiaomi Redmi Note 12S 8 256Gb NFC RU Pearl Green",
+      "properties": {
+        "id": 101998802929,
+        "screen": "6.43 (2400x1080) AMOLED 90 Гц",
+        "memory": "256 gb",
+        "battery": "5000 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4448948/img_id1559571052002459544.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4448948/img_id8122577733915410196.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/3698270/img_id7169289768531651947.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4303439/img_id3915036485218179785.jpeg/600x800"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "Samsung Galaxy A54 5G 8/256 gb",
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "brandId": 3,
+      "price": "1080",
+      "discount": "",
+      "hasDiscount": false,
+      "isNew": true,
+      "description": "Smartphone Samsung Galaxy A54 5G 8/256 gb, 2 nano SIM, graphite",
+      "properties": {
+        "id": 101969508795,
+        "screen": "6.4 (2340×1080) Super AMOLED",
+        "memory": "256 gb",
+        "battery": "5000 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5236304/img_id1219855248762455349.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5236304/img_id1219855248762455349.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4342845/img_id1415236226392587977.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5303201/img_id6896530373683627491.png/600x800"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "Tecno Spark 20 8/128Gb",
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "brandId": 5,
+      "price": "770",
+      "discount": "",
+      "hasDiscount": false,
+      "isNew": true,
+      "description": "Smartphone Tecno Spark 20 8/128Gb RU Magic Skin",
+      "properties": {
+        "id": 102581881748,
+        "screen": "6.56 (1612x720) IPS 90 Гц",
+        "memory": "128 gb",
+        "battery": "5000 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11211847/2a0000018c68e24687da39a7abcff6d45bc4/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11562667/2a0000018c68e246880f39111a3b94b97f32/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11535894/2a0000018c68e246891368294d23d8f00ca7/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11919271/2a0000018c5ebdf39e41759fb2e5e4974f84/600x800"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "Tecno Pova 5 8 256Gb",
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "brandId": 5,
+      "price": "920",
+      "discount": "850",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Smartphone Tecno Pova 5 8 256Gb Amber Gold",
+      "properties": {
+        "id": 102081043766,
+        "screen": "6.8 (2460x1080) IPS 120 Hz",
+        "memory": "256 gb",
+        "battery": "6000 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5098271/img_id8560470064369772876.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1081556/img_id5168556408289509250.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/10567286/img_id5717049196565262476.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/10567286/img_id7528974064335427957.jpeg/600x800"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "Smart watch Haylou LS02",
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "brandId": 2,
+      "price": "110",
+      "discount": "90",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Smart watch Haylou LS02 global version",
+      "properties": {
+        "id": 102081043766,
+        "material": "aluminum",
+        "color": "black",
+        "battery": "1230 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7467475/img_id6565464888479174021.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7467475/img_id6565464888479174021.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/3749045/img_id8511853308987878995.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5275484/img_id2958974060237220742.jpeg/600x800"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "name": "Smart Watch x8 pro",
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "brandId": 3,
+      "price": "110",
+      "discount": "90",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Smart watch Smart Watch x8 pro, women's, men's, fitness bracelet, Bluetooth, 45mm, Pink",
+      "properties": {
+        "id": 102564656955,
+        "material": "plastic",
+        "color": "pink",
+        "battery": "1230 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11370192/2a0000018c6c36d319900ba8fcc41207f0ca/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11370192/2a0000018c6c36d319900ba8fcc41207f0ca/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11395611/2a0000018c6c36d326c98a347e27d40ce6d1/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11906264/2a0000018c6c36d30aebf4208b2098d8087f/600x800"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "name": "Fitness bracelet Xiaomi Smart Band 7 Pro GL",
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "brandId": 2,
+      "price": "230",
+      "discount": "",
+      "hasDiscount": false,
+      "isNew": true,
+      "description": "Fitness bracelet Xiaomi Smart Band 7 Pro GL White (BHR6076GL) white",
+      "properties": {
+        "id": 101817646813,
+        "material": "plastic",
+        "color": "milky",
+        "battery": "1230 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/6458782/img_id2120305157939904114.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4732637/img_id6489552983437049257.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7016910/img_id3422641298401367677.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7150546/img_id7338148346135078545.jpeg/600x800"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "name": "Smartwatch Apple Watch Series 8",
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "brandId": 4,
+      "price": "570",
+      "discount": "540",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Smartwatch Apple Watch Series 8 45 mm Aluminum Case GPS, silver/white Sport Band",
+      "properties": {
+        "id": 101828824844,
+        "material": "aluminum",
+        "color": "white",
+        "battery": "1230 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7179065/img_id5485749703746912483.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7980098/img_id6323757149941031192.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5233990/img_id8484114807935814228.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7179065/img_id5485749703746912483.jpeg/600x800"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "name": "Apple Watch Series 8",
+      "categoryId": 1,
+      "subCategoryId": 2,
+      "brandId": 4,
+      "price": "900",
+      "discount": "860",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Apple Watch Series 8 45mm Stainless Steel Case GPS+Cellular Milanese Loop Graphite",
+      "properties": {
+        "id": 102532062220,
+        "material": "aluminum",
+        "color": "gray",
+        "battery": "1230 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11417817/2a0000018bcd461b1afadfb92034187105ab/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4341821/2a0000018bcd461a86fb9c260b090d4133ac/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11167279/2a0000018bcd461bf8f3e60891a410747b5b/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4341821/2a0000018bcd461a86fb9c260b090d4133ac/600x800"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "name": "headphones Hoco EW04",
+      "categoryId": 1,
+      "subCategoryId": 3,
+      "brandId": 4,
+      "price": "24",
+      "discount": "18",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Wireless headphones Hoco EW04, Lightning, white",
+      "properties": {
+        "id": 101309026734,
+        "connectionType": "Bluetooth 5.0",
+        "color": "white",
+        "battery": "345 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5221865/img_id7041750149821199719.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5216453/img_id6018852223061511935.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4012462/img_id8356587330562151613.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5304975/img_id6957745511884634280.jpeg/600x800"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "name": "headphones Type-C (for phone, laptop, computer)",
+      "categoryId": 1,
+      "subCategoryId": 3,
+      "brandId": 2,
+      "price": "12",
+      "discount": "8",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Wired headphones Type-C (for phone, laptop, computer) with headset and volume control NP-20 white",
+      "properties": {
+        "id": 101958274164,
+        "connectionType": "Bluetooth 5.0",
+        "color": "white",
+        "battery": "245 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/6325594/img_id7546529026563737311.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/6325594/img_id7254590952740968646.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/6336603/img_id806575848663270398.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7144437/img_id2631459365760671924.jpeg/600x800"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "name": "Headphones RITMIX RH-524TV",
+      "categoryId": 1,
+      "subCategoryId": 3,
+      "brandId": 3,
+      "price": "32",
+      "discount": "25",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Headphones RITMIX RH-524TV",
+      "properties": {
+        "id": 101124023396,
+        "connectionType": "Bluetooth 5.0",
+        "color": "white",
+        "battery": "∞"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1912105/img_id5033898514121930409.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1912105/img_id5033898514121930409.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1865219/2a0000018bf62b76845e24dacb5e70cf7995/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11397991/2a0000018bf62b7688a05101396e7c03a84c/600x800"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "name": "headphones Redmi Buds 4",
+      "categoryId": 1,
+      "subCategoryId": 3,
+      "brandId": 5,
+      "price": "41",
+      "discount": "",
+      "hasDiscount": false,
+      "isNew": true,
+      "description": "Wireless headphones Redmi Buds 4 Lite Black",
+      "properties": {
+        "id": 101961243264,
+        "connectionType": "Bluetooth 5.0",
+        "color": "black",
+        "battery": "325mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5274753/img_id7371281735016909852.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7547374/img_id5013006067878591057.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5217690/img_id9001130229891014661.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/6458782/img_id6254080294902788232.jpeg/600x800"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "name": "headphones Marshall Major IV",
+      "categoryId": 1,
+      "subCategoryId": 3,
+      "brandId": 2,
+      "price": "86",
+      "discount": "24",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Wireless headphones Marshall Major IV, mini jack 3.5 mm, brown",
+      "properties": {
+        "id": 101641059775,
+        "connectionType": "Bluetooth 5.0",
+        "color": "brown",
+        "battery": "790mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4079169/img_id1847981914480209964.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4334579/img_id7585161892837552881.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4289990/img_id3451158486300853982.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5262552/img_id3874808527443398582.jpeg/600x800"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "name": "Alive Audio Glam noir",
+      "categoryId": 1,
+      "subCategoryId": 4,
+      "brandId": 4,
+      "price": "120",
+      "discount": "",
+      "hasDiscount": false,
+      "isNew": true,
+      "description": "Vinyl player Alive Audio Glam noir",
+      "properties": {
+        "id": 101775436743,
+        "connectionType": "Bluetooth 5.0",
+        "color": "black",
+        "battery": "4800mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5266697/img_id2147134802794745109.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4949903/img_id8554210504119584245.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5229821/img_id7789761139802796391.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4937511/img_id8910196529165036519.png/600x800"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "name": " microphone HyperX QuadCast S",
+      "categoryId": 1,
+      "subCategoryId": 4,
+      "brandId": 4,
+      "price": "319",
+      "discount": "299",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Wired microphone HyperX QuadCast S, equipment: microphone, connector: USB, black, 1 pc.",
+      "properties": {
+        "id": 101495841728,
+        "connectionType": "Bluetooth 5.0",
+        "color": "black",
+        "battery": "2300mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5146425/img_id8185615973632513922.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5307186/img_id6610759905260074994.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5220932/img_id259874164076994652.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5163855/img_id2399034665532125209.jpeg/600x800"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "name": "Speaker system 2.0 SmartBuy W50, 6W",
+      "categoryId": 1,
+      "subCategoryId": 4,
+      "brandId": 2,
+      "price": "160",
+      "discount": "123",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Speaker system 2.0 SmartBuy W50, 6W, 76mm speakers, USB (SBA-4900)/20",
+      "properties": {
+        "id": 101902758522,
+        "connectionType": "Bluetooth 5.0",
+        "color": "black",
+        "battery": "10600mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/6458782/img_id3390839907660446827.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5221826/img_id2250209307005663680.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/6257919/img_id2182732184420772670.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1656415/img_id120810650501826802.jpeg/600x800"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "name": "Speakers Perfeo UNO 2.0",
+      "categoryId": 1,
+      "subCategoryId": 4,
+      "brandId": 1,
+      "price": "90",
+      "discount": "45",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Speakers Perfeo UNO 2.0, power 2x0.5 W (RMS), black, USB",
+      "properties": {
+        "id": 101132026264,
+        "connectionType": "Bluetooth 5.0",
+        "color": "black",
+        "battery": "5500mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1926869/img_id2916987472646129952.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/3741589/img_id8298109512611610550.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4377400/img_id4401657456013360286.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4119784/img_id1825291814449521787.jpeg/600x800"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "name": "Microphone RITMIX RDM-130",
+      "categoryId": 1,
+      "subCategoryId": 4,
+      "brandId": 3,
+      "price": "100",
+      "discount": "45",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Microphone RITMIX RDM-130 black",
+      "properties": {
+        "id": 100695176763,
+        "connectionType": "Bluetooth 5.0",
+        "color": "brown",
+        "battery": "2100mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/3986581/img_id7886953546108542756.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/3934197/img_id8740155659505900368.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1521939/img_id643035845593094942.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7888310/img_id6567094729956714761.jpeg/600x800"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "name": "Refrigerator Haier C2F 636 CWRG",
+      "categoryId": 3,
+      "subCategoryId": 5,
+      "brandId": 1,
+      "price": "2140",
+      "discount": "2040",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Double-chamber refrigerator Haier C2F 636 CWRG",
+      "properties": {
+        "id": 101627852910,
+        "cameras": "2",
+        "volume": "278L",
+        "color": "white",
+        "freezerLocation": "bottom"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4322217/img_id9175565318080405754.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5218438/img_id5299631272402586781.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5159019/img_id7779536014924001393.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4525599/img_id4128567966845278695.jpeg/600x800"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "name": "Refrigerator Gorenje",
+      "categoryId": 3,
+      "subCategoryId": 5,
+      "brandId": 3,
+      "price": "3340",
+      "discount": "2540",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Refrigerator Gorenje NRK6202AXL4, silver metallic",
+      "properties": {
+        "id": 101627818825,
+        "cameras": "2",
+        "volume": "232L",
+        "color": "gray",
+        "freezerLocation": "bottom"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4453979/img_id7743880265758583510.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4453979/img_id7743880265758583510.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5277040/img_id2230658930183958156.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4219717/img_id5277520075270782156.jpeg/600x800"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "name": "Refrigerator Biryusa 108",
+      "categoryId": 3,
+      "subCategoryId": 5,
+      "brandId": 2,
+      "price": "1140",
+      "discount": "640",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Refrigerator Biryusa 108",
+      "properties": {
+        "id": 101593662757,
+        "cameras": "1",
+        "volume": "165L",
+        "color": "milky",
+        "freezerLocation": "inside"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/3584542/img_id4935808897185047438.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/3584542/img_id4935808897185047438.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4120716/img_id4553490455723669619.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4579830/img_id8241843340260761424.jpeg/600x800"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "name": "Refrigerator ndesit ITR 5180 E",
+      "categoryId": 3,
+      "subCategoryId": 5,
+      "brandId": 1,
+      "price": "1840",
+      "discount": "",
+      "hasDiscount": false,
+      "isNew": false,
+      "description": "Refrigerator ndesit ITR 5180 E, milky",
+      "properties": {
+        "id": 845995003,
+        "cameras": "2",
+        "volume": "247L",
+        "color": "brown",
+        "freezerLocation": "bottom"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/10637301/2a0000018b725491cb4b1c53ab4d1574f8e9/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4012413/img_id771853071165228007.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1571888/img_id988954817730389678.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7979606/img_id3214883860225779027.jpeg/600x800"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "name": "Refrigerator Haier C2F636CRRG",
+      "categoryId": 3,
+      "subCategoryId": 5,
+      "brandId": 3,
+      "price": "4120",
+      "discount": "2940",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Refrigerator Haier C2F636CRRG, red",
+      "properties": {
+        "id": 1713292382,
+        "cameras": "2",
+        "volume": "280L",
+        "color": "red",
+        "freezerLocation": "bottom"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5142344/img_id3915522036448186094.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5142344/img_id3915522036448186094.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4407413/img_id3354983922004370226.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5332261/img_id2676483024004651980.jpeg/600x800"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "name": "Oil radiator Ballu",
+      "categoryId": 3,
+      "subCategoryId": 6,
+      "brandId": 5,
+      "price": "999",
+      "discount": "810",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Oil radiator Ballu Turbo BOH/TB-07FH",
+      "properties": {
+        "id": 100659478101,
+        "power": "1500 W",
+        "area": "25 m²",
+        "color": "white"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4412310/img_id8250782175303094528.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4119784/img_id6601335212691698338.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1767151/img_id3313983908054259676.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1673800/img_id5914397805390876268.png/600x800"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "name": "Heater KT-2702",
+      "categoryId": 3,
+      "subCategoryId": 6,
+      "brandId": 5,
+      "price": "344",
+      "discount": "",
+      "hasDiscount": false,
+      "isNew": true,
+      "description": "Heater KT-2702",
+      "properties": {
+        "id": 101833326028,
+        "power": "1100 W",
+        "area": "20 m²",
+        "color": "white"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1578067/img_id5137456325439617393.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4012462/img_id7704101815429160161.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5320264/img_id6765116556842466159.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1911047/img_id248055340939051016.jpeg/600x800"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "name": "Infrared Wall Flexible Heater",
+      "categoryId": 3,
+      "subCategoryId": 6,
+      "brandId": 5,
+      "price": "730",
+      "discount": "550",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Infrared Wall Flexible Heater Fireplace (Home)",
+      "properties": {
+        "id": 101313826851,
+        "power": "2500 W",
+        "area": "45 m²",
+        "color": "brown"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1589815/img_id8125792622023752762.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1589815/img_id8125792622023752762.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1657306/img_id5443241081781267038.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1599966/img_id4541012563851917125.jpeg/600x800"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "name": "Oil radiator Electrolux EOH/M-9157",
+      "categoryId": 3,
+      "subCategoryId": 6,
+      "brandId": 5,
+      "price": "680",
+      "discount": "610",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Oil radiator Electrolux EOH/M-9157, white/golden",
+      "properties": {
+        "id": 100414413184,
+        "power": "1500 W",
+        "area": "25 m²",
+        "color": "milky"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4080967/img_id8687647249695607039.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5363546/img_id8678320933648436612.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5283122/img_id8000362246920967928.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4113189/img_id5011978665263672926.jpeg/600x800"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "name": "European style fireplace heater",
+      "categoryId": 3,
+      "subCategoryId": 6,
+      "brandId": 5,
+      "price": "1020",
+      "discount": "870",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "European style fireplace heater, flame heater, small stove",
+      "properties": {
+        "id": 102426696813,
+        "power": "2200 W",
+        "area": "35 m²",
+        "color": "black"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11402506/2a0000018b4227f9b048bcab71302b5b507d/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11312687/2a0000018b5e8769856277bb131a8ff408cd/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11722550/2a0000018b5e87685cca65347677f1c6e68d/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11404302/2a0000018b4227f6aa4cbba5ca9b3a3a304a/600x800"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "name": "Microwave oven Gorenje MO17E1W",
+      "categoryId": 3,
+      "subCategoryId": 7,
+      "brandId": 3,
+      "price": "580",
+      "discount": "",
+      "hasDiscount": false,
+      "isNew": true,
+      "description": "Microwave oven Gorenje MO17E1W",
+      "properties": {
+        "id": 536106023,
+        "color": "white",
+        "material": "aluminum",
+        "temperature": "300 °C"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1886132/img_id529306259368449496.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1886132/img_id529306259368449496.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4466428/img_id7153207700313016141.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4393885/img_id8331396667322703189.jpeg/600x800"
+        }
+      ],
+      "id": 36
+    },
+    {
+      "name": "Microwave Oven Gorenje MO20E1S silver",
+      "categoryId": 3,
+      "subCategoryId": 7,
+      "brandId": 1,
+      "price": "660",
+      "discount": "590",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Microwave Oven Gorenje MO20E1S silver",
+      "properties": {
+        "id": 101708836189,
+        "color": "black",
+        "material": "iron",
+        "temperature": "270 °C"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4606255/img_id4741426896958910176.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4034372/img_id7504506205238321212.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5347250/img_id3730813422216159581.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7979862/img_id6471126723326742059.jpeg/600x800"
+        }
+      ],
+      "id": 37
+    },
+    {
+      "name": "Microwave oven GORENJE MO20E1W2",
+      "categoryId": 3,
+      "subCategoryId": 7,
+      "brandId": 3,
+      "price": "430",
+      "discount": "400",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Microwave oven GORENJE MO20E1W2",
+      "properties": {
+        "id": 1473857430,
+        "color": "white",
+        "material": "stainless steel",
+        "temperature": "300 °C"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/2008488/img_id7726838253011982705.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1674591/img_id6530588644368434188.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5233990/img_id7400727180585954223.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/3934197/img_id1655901191043145818.jpeg/600x800"
+        }
+      ],
+      "id": 38
+    },
+    {
+      "name": "Microwave oven Gorenje MO20A3WH",
+      "categoryId": 3,
+      "subCategoryId": 7,
+      "brandId": 4,
+      "price": "835",
+      "discount": "665",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Microwave oven Gorenje MO20A3WH",
+      "properties": {
+        "id": 101805868833,
+        "color": "gray",
+        "material": "aluminum",
+        "temperature": "250 °C"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4957996/img_id2771633246484795957.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5236458/img_id7191295052632408954.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4304254/img_id8303873357136122758.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1715213/img_id6575126430592617470.jpeg/600x800"
+        }
+      ],
+      "id": 39
+    },
+    {
+      "name": "Microwave oven Hyundai HYM-D2071",
+      "categoryId": 3,
+      "subCategoryId": 7,
+      "brandId": 5,
+      "price": "980",
+      "discount": "700",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Microwave oven Hyundai HYM-D2071",
+      "properties": {
+        "id": 663894033,
+        "color": "black",
+        "material": "stainless steel",
+        "temperature": "300 °C"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7631660/img_id6527957253529432330.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5304425/img_id4174777437490006613.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4120567/img_id5567293079095641923.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1924204/img_id5166753658749145311.jpeg/600x800"
+        }
+      ],
+      "id": 40
+    },
+    {
+      "name": "Blender 2 in 1 Kitfort",
+      "categoryId": 3,
+      "subCategoryId": 8,
+      "brandId": 1,
+      "price": "67",
+      "discount": "55",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Blender 2 in 1 Kitfort KT-1356-2 red",
+      "properties": {
+        "id": 100622426728,
+        "power": "600 W",
+        "material": "glass",
+        "volume": "2 L"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1715213/img_id8969053138418437248.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4453979/img_id4690582379656778518.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1724439/img_id5879599392404812519.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7632591/img_id8820170910117712577.jpeg/600x800"
+        }
+      ],
+      "id": 41
+    },
+    {
+      "name": "MARTA MT-1567",
+      "categoryId": 3,
+      "subCategoryId": 8,
+      "brandId": 3,
+      "price": "46",
+      "discount": "31",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "MARTA MT-1567 black pearl stationary blender",
+      "properties": {
+        "id": 101091634746,
+        "power": "700 W",
+        "material": "plastic",
+        "volume": "2.4 L"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5319505/img_id2048770567861593831.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4932805/img_id216404482537927441.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4606255/img_id3960909972303844002.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1674591/img_id6094852559080207896.jpeg/600x800"
+        }
+      ],
+      "id": 42
+    },
+    {
+      "name": "Immersion blender Braun",
+      "categoryId": 3,
+      "subCategoryId": 8,
+      "brandId": 1,
+      "price": "67",
+      "discount": "55",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Immersion blender Braun MQ535 SAUCE",
+      "properties": {
+        "id": 100238614656,
+        "power": "900 W",
+        "material": "glass",
+        "volume": "2.2 L"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5332261/img_id521577195274410195.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5332261/img_id521577195274410195.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7471903/img_id3690725938764848487.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5151028/img_id6346026896513000196.jpeg/600x800"
+        }
+      ],
+      "id": 43
+    },
+    {
+      "name": "Portable blender Xiaomi Mijia",
+      "categoryId": 3,
+      "subCategoryId": 8,
+      "brandId": 2,
+      "price": "86",
+      "discount": "63",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Portable blender Xiaomi Mijia Portable Juicer Cup MJZZB01PL, white",
+      "properties": {
+        "id": 101727712766,
+        "power": "550 W",
+        "material": "plastic",
+        "volume": "1.3 L"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5238231/img_id8903347867884796398.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5277894/img_id43366220913943596.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5304975/img_id3612949602088444570.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5288039/img_id6973433396168437379.jpeg/600x800"
+        }
+      ],
+      "id": 44
+    },
+    {
+      "name": "Tabletop blender PTB 0821G",
+      "categoryId": 3,
+      "subCategoryId": 8,
+      "brandId": 5,
+      "price": "70",
+      "discount": "",
+      "hasDiscount": false,
+      "isNew": true,
+      "description": "Tabletop blender PTB 0821G",
+      "properties": {
+        "id": 101219017866,
+        "power": "800 W",
+        "material": "glass",
+        "volume": "1.8 L"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5221946/img_id8523078320220175717.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5221946/img_id8523078320220175717.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7978910/img_id8912872143612457586.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5232651/img_id7693723541146046036.jpeg/600x800"
+        }
+      ],
+      "id": 45
+    },
+    {
+      "name": "Tablet Xiaomi Pad 6 8/256 gb",
+      "categoryId": 2,
+      "subCategoryId": 9,
+      "brandId": 2,
+      "price": "1190",
+      "discount": "985",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Tablet Xiaomi Pad 6 8/256 gb, Wi-Fi Global, gold",
+      "properties": {
+        "id": 102137895755,
+        "screen": "11 (2880x1800), IPS, 144 Гц",
+        "memory": "256 gb",
+        "battery": "6600 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4012371/img_id3306432427076381667.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4493501/img_id219441212194620136.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4956986/img_id2846376188984148299.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1865885/img_id2188792150824460734.jpeg/600x800"
+        }
+      ],
+      "id": 46
+    },
+    {
+      "name": "Tablet Apple iPad 10.9 2022",
+      "categoryId": 2,
+      "subCategoryId": 9,
+      "brandId": 4,
+      "price": "1790",
+      "discount": "1345",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "10.9 Tablet Apple iPad 10.9 2022, 64 GB, Wi-Fi, iPadOS, blue",
+      "properties": {
+        "id": 101833689731,
+        "screen": "10.9 (2360x1640), IPS, 60 Hz",
+        "memory": "64 gb",
+        "battery": "5700 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5279099/img_id1582294112206469034.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5234219/img_id629417208545674923.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1602935/img_id4400167634782689880.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1537623/img_id7487533193052418685.jpeg/600x800"
+        }
+      ],
+      "id": 47
+    },
+    {
+      "name": "Tablet Samsung Galaxy Tab S6 Lite",
+      "categoryId": 2,
+      "subCategoryId": 9,
+      "brandId": 3,
+      "price": "1320",
+      "discount": "",
+      "hasDiscount": false,
+      "isNew": true,
+      "description": "10.4 Tablet Samsung Galaxy Tab S6 Lite, SM-P613 (2022), 4/128 GB, Wi-Fi, stylus, Android 12, gray",
+      "properties": {
+        "id": 101819039773,
+        "screen": "10.4 (2000x1200), TFT, 60 Гц",
+        "memory": "128 gb",
+        "battery": "7100 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7498982/img_id5268718581958213097.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7381431/img_id1134452639506314474.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7179065/img_id2493966172657123297.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7724829/img_id678227571461669381.png/600x800"
+        }
+      ],
+      "id": 48
+    },
+    {
+      "name": "Tecno Pad SE",
+      "categoryId": 2,
+      "subCategoryId": 9,
+      "brandId": 5,
+      "price": "1090",
+      "discount": "915",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Tecno Pad SE 8/128GB Lavender Purple Global ROM",
+      "properties": {
+        "id": 102350819043,
+        "screen": "90 Hz",
+        "memory": "128 gb",
+        "battery": "4600 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1578067/2a0000018bbc56d962f85b4faca38fb0a748/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11760083/2a0000018b9498fd3be59e9320b7724b3989/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/10393486/2a0000018afb2afa94965a6fbb4f7fa532bb/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11375416/2a0000018b9498fd8c14b4bd051a7c8f06ae/600x800"
+        }
+      ],
+      "id": 49
+    },
+    {
+      "name": "Tecno Spark Go 2024 3/64Gb RU Gravity",
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "brandId": 5,
+      "price": "600",
+      "discount": "440",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Смартфон Tecno Spark Go 2024 3/64Gb RU Gravity Black",
+      "properties": {
+        "id": 1699021594553,
+        "screen": "7.3 (2556x1179) OLED",
+        "memory": "64 gb",
+        "battery": "5000 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11482776/2a0000018bee3df9624fe3f8152f59e5cc4c/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11900957/2a0000018bee3df95ba0db138039228194af/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11620615/2a0000018bee3df9c52d942530c5442cbd6f/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/12222014/2a0000018c2506a133bf886e433a67ecc880/600x800"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Umiio A19 Pro tablet with keyboard",
+      "categoryId": 2,
+      "subCategoryId": 9,
+      "brandId": 2,
+      "price": "2130",
+      "discount": "",
+      "hasDiscount": false,
+      "isNew": true,
+      "description": "Umiio A19 Pro tablet with keyboard, case and stylus / 10 cores / 6 gb / 128, 10.1, 128GB, gray Tablet Umiio Android 11.0G",
+      "properties": {
+        "id": 102410476718,
+        "screen": "3040x1440,  60 Hz",
+        "memory": "128 gb",
+        "battery": "5400 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11621477/2a0000018ca6b7dc6db87f6649e82a0e5ce2/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/9737239/2a0000018ca6b7dc6d93ad24a24b378cbbed/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11368503/2a0000018ca6b7dc6d92d98da2ddd9f18f3c/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11562667/2a0000018ca6b7dc6ce9f93bf877170d63c8/600x800"
+        }
+      ],
+      "id": 50
+    },
+    {
+      "name": "Samsung Galaxy S23 FE 8/256 gb",
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "brandId": 3,
+      "price": "1230",
+      "discount": "1190",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Smartphone Samsung Galaxy S23 FE 8/256 gb, Dual: nano SIM + eSIM, mint",
+      "properties": {
+        "id": 102414730080,
+        "screen": "6.4 (2340×1080) Dynamic",
+        "memory": "256 gb",
+        "battery": "4500 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/10483373/img_id6297799652904088520.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5236204/img_id5110975732609738603.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/10637301/img_id2302909128372338284.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/12222014/2a0000018c2506a133bf886e433a67ecc880/600x800"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "Laptop Xiaomi RedmiBook 15",
+      "categoryId": 2,
+      "subCategoryId": 10,
+      "brandId": 2,
+      "price": "2440",
+      "discount": "2200",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "15.6 Laptop Xiaomi RedmiBook 15 1920x1080, Intel Core i3 1115G4 3 GHz, RAM 8 GB, DDR4, SSD 256 gb, Intel UHD Graphics, Windows 11 Home, JYU4525RU, gray",
+      "properties": {
+        "id": 101934018779,
+        "screen": "15.6 (1920x1080) TN, 60 Hz",
+        "memory": "256 gb",
+        "battery": "9100 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/3765589/img_id6212279980013072763.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5236304/img_id3565739342906426033.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1704691/img_id5787440139314076399.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7632591/img_id469950651903047647.jpeg/600x800"
+        }
+      ],
+      "id": 52
+    },
+    {
+      "name": "Laptop Tecno Megabook T1 R5 5560U",
+      "categoryId": 2,
+      "subCategoryId": 10,
+      "brandId": 5,
+      "price": "1840",
+      "discount": "1600",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Laptop Tecno Megabook T1 R5 5560U 15.6 1920x1080 16GB / 1T",
+      "properties": {
+        "id": 102353020773,
+        "screen": "15.6 1920x1080 IPS, 60 Hz",
+        "memory": "512 gb",
+        "battery": "8700 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11393104/2a0000018c6c7b877f2986a5c880bdc2c67b/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11393104/2a0000018c6c7b877f2986a5c880bdc2c67b/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11563949/2a0000018c6cb3491e6b0ae3d59e2a1deb65/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11472827/2a0000018c6c8111b4a6bb317c8d797f8023/600x800"
+        }
+      ],
+      "id": 53
+    },
+    {
+      "name": "Laptop Xiaomi Redmi Book Pro 14",
+      "categoryId": 2,
+      "subCategoryId": 10,
+      "brandId": 2,
+      "price": "3140",
+      "discount": "2900",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "14 Laptop Xiaomi Redmi Book Pro 14, 2560x1600, AMD Ryzen 5 5500U, AMD Radeon Graphics, 16/512 GB, Windows 11 Home (RU), Russian keyboard",
+      "properties": {
+        "id": 101951147386,
+        "screen": "13.3 (2560x1600) IPS, 60 Hz",
+        "memory": "512 gb",
+        "battery": "7700 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11858961/2a0000018c347c9b1af826f16a429ed3589f/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4984138/img_id4311477997941254071.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4441663/img_id6659037709997146303.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11858961/2a0000018c347c9b1af826f16a429ed3589f/600x800"
+        }
+      ],
+      "id": 54
+    },
+    {
+      "name": "Laptop Samsung Galaxy Book3 360 750QFG-KA1",
+      "categoryId": 2,
+      "subCategoryId": 10,
+      "brandId": 3,
+      "price": "4640",
+      "discount": "4200",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Laptop Samsung Galaxy Book3 360 750QFG-KA1 Intel i7-1360P/16Gb/1024Gb/Intel Iris XE/15.6 /FHD/Amoled/W11 (NP750QFG-KA1US)",
+      "properties": {
+        "id": 102550652488,
+        "screen": "15.6 1920x1080 AMOLED, 60 Hz",
+        "memory": "1024 gb",
+        "battery": "8400 mAh"
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/12025833/2a0000018ce8761e2247edbf804be2b98e95/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11240005/2a0000018ce8761e2191e663647064a2cf9f/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/12025833/2a0000018ce8761e2247edbf804be2b98e95/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11240005/2a0000018ce8761e2191e663647064a2cf9f/600x800"
+        }
+      ],
+      "id": 55
+    },
+    {
+      "name": "Xiaomi Redmi 27 gaming monitor",
+      "categoryId": 2,
+      "subCategoryId": 11,
+      "brandId": 2,
+      "price": "940",
+      "discount": "900",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Xiaomi Redmi 27 gaming monitor, X27G (G27), 1920x1080, 165 Hz",
+      "properties": {
+        "id": 102191477665,
+        "screen": "1920x1080 IPS, 165 Hz",
+        "memory": "",
+        "battery": ""
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1863454/img_id1448275203431384887.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4120567/img_id3980318692538152887.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1081556/img_id6201163907061963303.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/3614670/img_id3416519462976221198.jpeg/600x800"
+        }
+      ],
+      "id": 56
+    },
+    {
+      "name": "Monitor Xiaomi Redmi Display 1A",
+      "categoryId": 2,
+      "subCategoryId": 11,
+      "brandId": 2,
+      "price": "1040",
+      "discount": "",
+      "hasDiscount": false,
+      "isNew": true,
+      "description": "23.8 Monitor Xiaomi Redmi Display 1A, 1920x1080, 60 Hz, IPS, CN, black",
+      "properties": {
+        "id": 100947257336,
+        "screen": "1920x1080 IPS, 60 Hz",
+        "memory": "",
+        "battery": ""
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4372348/img_id8734462445398377412.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4372348/img_id8734462445398377412.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/7144437/img_id3008370870018328673.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5217690/img_id5787985971311790245.jpeg/600x800"
+        }
+      ],
+      "id": 57
+    },
+    {
+      "name": "Monitor SAMSUNG F24T450FQI 23.8",
+      "categoryId": 2,
+      "subCategoryId": 11,
+      "brandId": 3,
+      "price": "670",
+      "discount": "540",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Monitor SAMSUNG F24T450FQI 23.8 (LF24T450FQIXCI)",
+      "properties": {
+        "id": 101095765813,
+        "screen": "1920x1080 IPS, 75 Hz",
+        "memory": "",
+        "battery": ""
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5233452/img_id3521603926513053781.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5175047/img_id586574236352839968.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/3980374/img_id3828594790568640194.png/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5094021/img_id3077745398442405660.png/600x800"
+        }
+      ],
+      "id": 58
+    },
+    {
+      "name": "Apple Studio Display 27",
+      "categoryId": 2,
+      "subCategoryId": 11,
+      "brandId": 4,
+      "price": "3800",
+      "discount": "3440",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Apple Studio Display 27 Glass Standard / Tilt Stand(MK0U3RU/A)",
+      "properties": {
+        "id": 102578943360,
+        "screen": "5120×2880 5K IPS, 60 Hz",
+        "memory": "",
+        "battery": ""
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11476411/2a0000018c598c1fc79a9aedb1d94932f13b/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11930023/2a0000018c598c1fc6fe4ca5400d0776aa16/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11520282/2a0000018c598c1fcfdb13b8261582944550/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/11535894/2a0000018c598c1fd2f475b81ca8c3d9d787/600x800"
+        }
+      ],
+      "id": 59
+    },
+    {
+      "name": "27 Apple Studio Display Standard glass Tilt",
+      "categoryId": 2,
+      "subCategoryId": 11,
+      "brandId": 4,
+      "price": "6700",
+      "discount": "6100",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "27 Монитор Apple Studio Display Standard glass Tilt & Height adjustable stand",
+      "properties": {
+        "id": 102374325108,
+        "screen": "5120x2880 IPS, 165 Hz",
+        "memory": "",
+        "battery": ""
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4884224/2a0000018aec5cae110e29a52be1e9a5a9c9/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4262452/2a0000018aed0b00da3dbe8f55853c379cbf/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5327057/2a0000018aed0b014c95351df015556baaf7/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1614201/2a0000018aec93f3ac1e575b153168a55295/600x800"
+        }
+      ],
+      "id": 60
+    },
+    {
+      "name": "Computer headset HyperX Cloud Alpha S",
+      "categoryId": 2,
+      "subCategoryId": 12,
+      "brandId": 1,
+      "price": "55",
+      "discount": "42",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Computer headset HyperX Cloud Alpha S, black",
+      "properties": {
+        "id": 100924535827,
+        "screen": "",
+        "memory": "",
+        "battery": ""
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/6559549/2a0000018ab1cded7b48d4d6fe8f2d7f6a42/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4866824/2a0000018ab1cdf18a5b83bec6ce22ce1e82/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/6559549/2a0000018ab1cdf1f670517d1565d4030a63/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4303516/2a0000018ab1cdef77688cc1f8a5634e2b2a/600x800"
+        }
+      ],
+      "id": 61
+    },
+    {
+      "name": "Wireless computer headset Logitech G G435",
+      "categoryId": 2,
+      "subCategoryId": 12,
+      "brandId": 2,
+      "price": "66",
+      "discount": "60",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Wireless computer headset Logitech G G435, white/lilac",
+      "properties": {
+        "id": 101694725786,
+        "screen": "",
+        "memory": "",
+        "battery": ""
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/6336603/img_id7736682092994605665.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/6336603/img_id7736682092994605665.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5228105/img_id1999041965114545894.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/5232956/img_id254816145758600594.jpeg/600x800"
+        }
+      ],
+      "id": 62
+    },
+    {
+      "name": "Wireless computer headset Logitech G G733 LightSpeed",
+      "categoryId": 2,
+      "subCategoryId": 12,
+      "brandId": 5,
+      "price": "110",
+      "discount": "106",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "Wireless computer headset Logitech G G733 LightSpeed, black",
+      "properties": {
+        "id": 101093489946,
+        "screen": "",
+        "memory": "",
+        "battery": ""
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4012481/img_id6480052474595994479.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/1923211/img_id5979965133400982268.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4397502/img_id5969635908538961578.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4076910/img_id8804169007229550296.jpeg/600x800"
+        }
+      ],
+      "id": 63
+    },
+    {
+      "name": "HyperX Cloud Mix Wired Headphones",
+      "categoryId": 2,
+      "subCategoryId": 12,
+      "brandId": 2,
+      "price": "167",
+      "discount": "156",
+      "hasDiscount": true,
+      "isNew": false,
+      "description": "HyperX Cloud Mix Wired Headphones Black",
+      "properties": {
+        "id": 101100449808,
+        "screen": "",
+        "memory": "",
+        "battery": ""
+      },
+      "media": [
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/3725687/img_id8932744894419435461.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4076910/img_id8212252101869041263.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/4120567/img_id1092046554361607125.jpeg/600x800"
+        },
+        {
+          "src": "https://avatars.mds.yandex.net/get-mpic/3925628/img_id1502559518936363451.jpeg/600x800"
+        }
+      ],
+      "id": 65
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "electonic",
+      "img": "uploads\\1699674959988.webp"
+    },
+    {
+      "id": 2,
+      "name": "computer technology",
+      "img": "uploads\\1699675063474.jpg"
+    },
+    {
+      "id": 3,
+      "name": "appliances",
+      "img": "uploads\\1699849349952.jpg"
+    }
+  ],
+  "subCategories": [
+    {
+      "name": "Smartphones",
+      "nickname": "Not a day without a smartphone",
+      "categoryId": [
+        1
+      ],
+      "brands": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "img": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/settings/2/%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B-1638869130347.jpg",
+      "id": 1
+    },
+    {
+      "name": "Smart watches",
+      "nickname": "Smart gadgets",
+      "categoryId": [
+        1
+      ],
+      "brands": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "img": "https://avatars.mds.yandex.net/get-mpic/11417817/2a0000018bcd461b1afadfb92034187105ab/600x800",
+      "id": 2
+    },
+    {
+      "name": "Headphones",
+      "nickname": "Audio immersion",
+      "categoryId": [
+        1
+      ],
+      "brands": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "img": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/settings/2/%D0%92%D0%B8%D0%B4%D0%B6%D0%B5%D1%82%20%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA%20%D0%94%D1%83%D1%88%D0%B0%D0%BD%D0%B1%D0%B5-1637814424647.jpg",
+      "id": 3
+    },
+    {
+      "name": "Audio equipment",
+      "nickname": "Audio equipment",
+      "categoryId": [
+        1
+      ],
+      "brands": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "img": "https://avatars.mds.yandex.net/get-mpic/5266697/img_id2147134802794745109.png/600x800",
+      "id": 4
+    },
+    {
+      "name": "Refrigerators",
+      "nickname": "Refrigerators",
+      "categoryId": [
+        3
+      ],
+      "brands": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "img": "https://avatars.mds.yandex.net/get-mpic/3584542/img_id4935808897185047438.jpeg/600x800",
+      "id": 5
+    },
+    {
+      "name": "Heaters",
+      "nickname": "Heaters",
+      "categoryId": [
+        3
+      ],
+      "brands": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "img": "https://avatars.mds.yandex.net/get-mpic/11402506/2a0000018b4227f9b048bcab71302b5b507d/600x800",
+      "id": 6
+    },
+    {
+      "name": "Microwaves",
+      "nickname": "Microwaves",
+      "categoryId": [
+        3
+      ],
+      "brands": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "img": "https://avatars.mds.yandex.net/get-mpic/4120567/img_id5567293079095641923.jpeg/600x800",
+      "id": 7
+    },
+    {
+      "name": "Blenders",
+      "nickname": "Blenders",
+      "categoryId": [
+        3
+      ],
+      "brands": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "img": "https://avatars.mds.yandex.net/get-mpic/5221946/img_id8523078320220175717.jpeg/600x800",
+      "id": 8
+    },
+    {
+      "name": "Tablets",
+      "nickname": "Tablets",
+      "categoryId": [
+        2
+      ],
+      "brands": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "img": "https://avatars.mds.yandex.net/get-mpic/1578067/2a0000018bbc56d962f85b4faca38fb0a748/600x800",
+      "id": 9
+    },
+    {
+      "name": "Laptops",
+      "nickname": "Laptops",
+      "categoryId": [
+        2
+      ],
+      "brands": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "img": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/settings/2/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%D0%B8-1638869204798.jpg",
+      "id": 10
+    },
+    {
+      "name": "Monitors",
+      "nickname": "Monitors",
+      "categoryId": [
+        2
+      ],
+      "brands": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "img": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/settings/2/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%BE%D1%80%D1%8B-1638869164491.jpg",
+      "id": 11
+    },
+    {
+      "name": "Computer headsets",
+      "nickname": "Computer headsets",
+      "categoryId": [
+        2
+      ],
+      "brands": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "img": "https://avatars.mds.yandex.net/get-mpic/4303516/2a0000018ab1cdef77688cc1f8a5634e2b2a/600x800",
+      "id": 12
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "Lg",
+      "img": "uploads\\1699677832038.webp"
+    },
+    {
+      "id": 2,
+      "name": "Xiaomi",
+      "img": "uploads\\1699677783093.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Samsung",
+      "img": "uploads\\1699678002249.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Apple",
+      "img": "uploads\\1699610467830.png"
+    },
+    {
+      "id": 5,
+      "name": "Tecno",
+      "img": "uploads\\1699610467830.png"
+    }
+  ],
+  "orders": [],
+  "users": []
+}

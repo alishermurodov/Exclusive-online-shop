@@ -1,0 +1,106 @@
+.container {
+    padding: 50px 0 120px 0;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+
+
+.leftSide {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    margin-bottom: 40px;
+}
+
+.leftSide h1 {
+    font-weight: 500;
+}
+
+.leftSideInputs {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.rightSide {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.productInCheckout {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.productInCheckout img {
+    width: 30px;
+    height: 37px;
+}
+.productInCheckout h3{
+    font-weight: 600;
+}
+
+.productsInCheckoutDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.bankCards{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+@media screen and (min-width: 640px) {
+    .leftSide {
+        width: 40%;
+        margin-bottom: 0;
+    }
+
+    .rightSide {
+        width: 37%;
+    }
+
+    .containerSides {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .container {
+        width: 84%;
+        padding: 80px 0 160px 0;
+    }
+
+    .leftSide {
+        width: 42%;
+        margin-bottom: 0;
+    }
+
+    .rightSide {
+        width: 40%;
+    }
+
+}
+
+@media screen and (min-width: 1025px) {
+    .leftSide {
+        width: 45%;
+        margin-bottom: 0;
+    }
+
+    .rightSide {
+        width: 42%;
+    }
+}
+
+@media screen and (min-width: 1280px) {}

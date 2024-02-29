@@ -1,0 +1,229 @@
+.container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 50px 0 100px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+
+.bothSides {
+    display: flex;
+    gap: 1%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.leftSide {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+    justify-content: center;
+    width: 100%;
+    max-height: 70vh;
+}
+
+.littleImg {
+    width: 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.bigImg {
+    width: 45%;
+    /* height: 50%; */
+}
+
+.bigImg img {
+    /* max-width: 70%; */
+    max-height: 50vh;
+    width: 200px;
+}
+
+.image {
+    padding: 4px;
+}
+
+.image:hover {
+    border: 1px solid #888;
+}
+
+.rigthSide {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.rigthSide h2 {
+    font-weight: 600;
+}
+
+.description {
+    font-size: 14px;
+    /* width: 156px; */
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.description p {
+    font-weight: 600;
+}
+
+.description span {
+    opacity: .6;
+}
+
+.counterBlock {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.counterDiv {
+    display: flex;
+    align-items: center;
+}
+
+.counterDiv button {
+    width: 33px;
+    height: 34px;
+    background: #fff;
+    border-radius: 3px;
+    color: #000;
+    border: 1px solid #888;
+}
+
+.counterDiv button:hover {
+    transform: scale(.9);
+    color: #fff;
+    background: var(--Secondary-2, #DB4444);
+}
+
+.counterDisplay {
+    width: 50px;
+    height: 34px;
+    border: 1px solid #888;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 19px;
+}
+
+.heart {
+    border: 1px solid #888;
+    width: 43px;
+    border-radius: 4px;
+    transition: .1s;
+}
+
+.heart:hover {
+    transform: scale(.9);
+}
+
+.delivery {
+    padding: 24px 16px;
+    border: 1px solid #888;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.deliveryRow {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+@media screen and (min-width: 640px) {
+    .leftSide{
+        width: 45%;
+    }
+    .rigthSide {
+        width: 45%;
+    }
+    .counterDisplay {
+        width: 80px;
+        height: 44px;
+
+    }
+
+    .counterDiv button {
+        width: 43px;
+        height: 44px;
+    }
+    .bigImg img {
+        width: 95%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .container {
+        width: 80%;
+        padding: 60px 0 100px 0;
+    }
+
+    .leftSide {
+        width: 50%;
+    }
+
+    .littleImg {
+        width: 30px;
+    }
+
+    .bigImg img {
+        max-width: 53%;
+    max-height: 80vh;
+
+    }
+
+    .bigImg {
+        width: 55%;
+    }
+}
+
+.releatedDiv{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.relatedElemsDiv{
+    display: flex;
+    gap: 30px;
+    overflow: auto;
+    
+}
+
+.propertyProduct{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+@media screen and (min-width: 1025px) {
+    .container {
+        padding: 80px 0 120px 0;
+    }
+
+    .littleImg {
+        width: 35px;
+    }
+
+    .bigImg img {
+        width: 80%;
+        height: 100%;
+    }
+
+    .bigImg {
+        width: 60%;
+    }
+    .releatedDiv{
+        width: 84%;
+    }
+}
+
+@media screen and (min-width: 1280px) {}

@@ -1,0 +1,122 @@
+.card {
+    width: 250px;
+    /* width: 100%; */
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+
+.cardView {
+    background: #F5F5F5;
+    border-radius: 4px;
+    overflow: hidden;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 16px;
+}
+
+.cardHeader {
+    display: flex;
+    padding: 12px 12px 0 12px;
+    margin-bottom: -20px;
+}
+.cardHeader2 {
+    display: flex;
+    padding: 12px 12px 0 12px;
+    margin-bottom: 16px;
+}
+
+.discount {
+    width: 55px;
+    height: 26px;
+    border-radius: 4px;
+    background: #DB4444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.discount span {
+    font-size: 12px;
+}
+
+.wishAndCart {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    cursor: pointer;
+}
+
+.wishAndCart img {
+    width: 34px;
+    height: 34px;
+    transition: .3s;
+}
+.wishAndCart img:hover{
+    transform: scale(1.1);
+}
+
+.cartImg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 14px;
+    height: 161px;
+    width: 65%;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.cartImg img {
+    max-height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+    border-radius: 8px;
+}
+
+.cartImg img:hover {
+    transform: scale(.98);;
+}
+
+button {
+    width: 100%;
+    height: 41px;
+    border: none;
+    background: var(--Button, #000);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    color: #fff;
+    cursor: pointer;
+    transition: .3s;
+}
+
+button:hover {
+    transform: scaleX(1.07);
+}
+
+.CartData {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.CartData p {
+    font-weight: 500;
+}
+
+.prices {
+    display: flex;
+    gap: 12px;
+}
+
+.productsBlock{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}

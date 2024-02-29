@@ -1,0 +1,32 @@
+.container{
+    width: 370px;
+    margin-bottom: 60px;
+}
+
+.container h1{
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+
+.container p{
+    margin-bottom: 16px;
+}
+
+.founderImg{
+    width: 100%;
+    margin-bottom: 32px;
+}
+
+.socialIcons{
+    display: flex;
+    gap: 16px;
+}
+
+.socialIcons img{
+    cursor: pointer;
+    transition: .3s;
+}
+
+.socialIcons img:hover{
+    transform: scale(1.3);
+}

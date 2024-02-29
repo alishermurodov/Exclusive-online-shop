@@ -1,0 +1,138 @@
+
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 54px;
+}
+
+.changableTitle {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.changableTitle h1 {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.changableTitle p {
+    font-size: 10px;
+    opacity: .7;
+    font-weight: 500;
+}
+
+.productsContainer {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    gap: 4%;
+    flex-wrap: wrap;
+}
+
+.sidebar {
+    height: 75vh;
+    width: 40%;
+    /* width: 200px; */
+    padding: 0 15px;
+    /* border: 1px solid #ccc; */
+    position: sticky;
+    top: 30px;
+    overflow: auto;
+}
+/* .exSlidebar{
+    width: 170px;
+    overflow: hidden;
+} */
+
+
+.sideInputDiv{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+
+.checkboxDiv{
+    margin-bottom: 25px;
+}
+
+.sideCheckboxDiv{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.inputsTitle{
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+
+.main {
+    display: flex;
+    /* align-items: start; */
+}
+
+@media screen and (min-width: 640px) {
+    .changableTitle h1 {
+        font-size: 20px;
+    }
+
+    .changableTitle p {
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .changableTitle h1 {
+        font-size: 21px;
+    }
+
+    .changableTitle p {
+        font-size: 13px;
+    }
+}
+
+@media screen and (min-width: 1025px) {
+    .container {
+        width: 84%;
+        margin: 0 auto;
+        padding: 40px 0;
+    }
+
+    .changableTitle h1 {
+        font-size: 22px;
+    }
+
+    .changableTitle p {
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .changableTitle h1 {
+        font-size: 24px;
+    }
+
+    .changableTitle p {
+        font-size: 15 px;
+    }
+    .sidebar {
+        height: 95vh;
+        width: 28%;
+        /* width: 320px; */
+    }
+    /* .exSlidebar{
+        width: 300px;
+    } */
+
+    .productsContainer {
+        width: 72%;
+    }
+}
