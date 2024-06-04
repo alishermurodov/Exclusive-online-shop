@@ -34,6 +34,23 @@ const Layout = () => {
 
     const active = localStorage.getItem("i18nextLng")
 
+    // const [initial, setInitial] = useState(1)
+
+    // const getButtonClass = () => {
+    //     switch (initial) {
+    //         case 1: return styles.testButton;
+    //         case 2: return styles.testButton2;
+    //         case 3: return styles.testButton3;
+    //         default: return '';
+    //     }
+    // }
+    // const testFunc = () => {
+    //     setInitial(prevInitial => {
+    //         const newInitial = prevInitial >= 3 ? 1 : prevInitial + 1;
+    //         return newInitial;
+    //     });
+    // };
+
     return (
         <div style={{ overflow: 'hidden' }}>
             <div className={styles.topAndHeader}>
@@ -48,6 +65,14 @@ const Layout = () => {
                             <Switcher />
                         </div>
                     </div>
+                    {/* <div>
+                        <button
+                            onClick={() => testFunc()}
+                            className={getButtonClass()}
+                        >
+                            {initial}
+                        </button>
+                    </div> */}
                 </div>
                 <header>
                     <div className={styles.burgerDiv}>
@@ -142,7 +167,7 @@ const Layout = () => {
                         <h3>{t("Account")}</h3>
                         {/* <p>{t("My Account")}</p> */}
                         <Link to={'cart'}>
-                            <p style={{color: '#fff'}}>{t("Cart")}</p>
+                            <p style={{ color: '#fff' }}>{t("Cart")}</p>
                         </Link>
                         <p>{t("Wishlist")}</p>
                         <p>{t("Shop")}</p>

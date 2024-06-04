@@ -122,12 +122,13 @@ const ProductsByCategory = () => {
     const handleBrandToggle = (brandId) => {
         if (selectedBrands.includes(brandId)) {
             // Remove the brand if it's already selected
-            setSelectedBrands(selectedBrands.filter(id => id !== brandId));
+            setSelectedBrands(selectedBrands.filter(id => id != brandId));
         } else {
             // Add the brand if it's not selected
             setSelectedBrands([...selectedBrands, brandId]);
         }
     };
+    // console.log(selectedBrands);
 
     //handle memory capacity
     const handleMemoryCapacityToggle = (capacity) => {
@@ -158,13 +159,15 @@ const ProductsByCategory = () => {
 
 
     const filterProductsByPrice = (product) => {
+        // console.log(product);
         //by price
         const productPrice = (product.hasDiscount ? product.discount : product.price);
         const minValid = isNaN(parseFloat(minPrice)) || productPrice >= parseFloat(minPrice);
         const maxValid = isNaN(parseFloat(maxPrice)) || productPrice <= parseFloat(maxPrice);
 
         //by brand
-        const brandValid = selectedBrands.length === 0 || selectedBrands.includes(product.brandId);
+        const brandValid = selectedBrands.length === 0 || selectedBrands.includes(String(product.brandId));
+        // console.log(product.brandId);
 
         // by memory capacity
         const memoryCapacityValid =
@@ -214,7 +217,7 @@ const ProductsByCategory = () => {
         dispatch(getProducts())
         dispatch(getSubcategories())
         dispatch(getBrands())
-    }, [])
+    }, [dispatch])
 
     return (
         <>
@@ -398,6 +401,7 @@ const ProductsByCategory = () => {
                                     </div>
                                     :
                                     filteredProducts && filteredProducts.map((product) => {
+                                        // console.log(product.id);
                                         return (
                                             <div key={product.id}>
                                                 <ProductCard
