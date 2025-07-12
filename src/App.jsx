@@ -11,9 +11,11 @@ import Cart from './pages/Cart/Cart'
 import VisitProduct from './pages/visitProduct/VisitProduct'
 import Checkout from './pages/Checkout/Checkout'
 import ProductsByCategory from './pages/productsByCategory/ProductsByCategory'
-import NotFound from './pages/NotFound/notFound'
+import NotFound from './pages/NotFound/NotFound'
 
 function App() {
+  console.log();
+  
 
   const router = createBrowserRouter([
     {

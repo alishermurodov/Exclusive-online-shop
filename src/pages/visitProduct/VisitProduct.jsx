@@ -39,10 +39,9 @@ const VisitProduct = () => {
   const relatedList = selectedProduct
     ? productList.filter(product => product.subCategoryId === selectedProduct.subCategoryId && product.brandId == selectedProduct.brandId && product.id !== selectedProduct.id)
     : [];
-  // console.log(selectedProduct);
 
   const [selectedImg, setSelectedImg] = useState()
-  // console.log(selectedImg);
+  console.log();
 
 
   useEffect(() => {
