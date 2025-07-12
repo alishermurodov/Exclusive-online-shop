@@ -3,7 +3,7 @@ import styles from '.././productCard/productCard.module.css';
 
 // img
 import deleteIcon from '../../assets/wishlist/delete-icon.svg'
-import cartIcon from '../../assets/home/CartIcon.svg'
+import cartIcon from '../../assets/home/cartIcon.svg'
 import RatingJon from '.././productCard/Rating'
 import { Link } from 'react-router-dom';
 
