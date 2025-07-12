@@ -8,10 +8,10 @@ import About from './pages/About/About'
 import Login from './pages/Login/Login'
 import Wishlist from './pages/Wishlist/Wishlist'
 import Cart from './pages/Cart/Cart'
-import NotFound from './pages/notFound/notFound'
 import VisitProduct from './pages/visitProduct/VisitProduct'
 import Checkout from './pages/Checkout/Checkout'
 import ProductsByCategory from './pages/productsByCategory/ProductsByCategory'
+import NotFound from './pages/NotFound/notFound'
 
 function App() {
 
