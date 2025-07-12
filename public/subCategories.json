@@ -1,0 +1,182 @@
+[
+        {
+            "name": "Smartphones",
+            "nickname": "Not a day without a smartphone",
+            "categoryId": [
+                1
+            ],
+            "brands": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "img": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/settings/2/%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B-1638869130347.jpg",
+            "id": 1
+        },
+        {
+            "name": "Smart watches",
+            "nickname": "Smart gadgets",
+            "categoryId": [
+                1
+            ],
+            "brands": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "img": "https://avatars.mds.yandex.net/get-mpic/11417817/2a0000018bcd461b1afadfb92034187105ab/600x800",
+            "id": 2
+        },
+        {
+            "name": "Headphones",
+            "nickname": "Audio immersion",
+            "categoryId": [
+                1
+            ],
+            "brands": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "img": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/settings/2/%D0%92%D0%B8%D0%B4%D0%B6%D0%B5%D1%82%20%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA%20%D0%94%D1%83%D1%88%D0%B0%D0%BD%D0%B1%D0%B5-1637814424647.jpg",
+            "id": 3
+        },
+        {
+            "name": "Audio equipment",
+            "nickname": "Audio equipment",
+            "categoryId": [
+                1
+            ],
+            "brands": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "img": "https://avatars.mds.yandex.net/get-mpic/5266697/img_id2147134802794745109.png/600x800",
+            "id": 4
+        },
+        {
+            "name": "Refrigerators",
+            "nickname": "Refrigerators",
+            "categoryId": [
+                3
+            ],
+            "brands": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "img": "https://avatars.mds.yandex.net/get-mpic/3584542/img_id4935808897185047438.jpeg/600x800",
+            "id": 5
+        },
+        {
+            "name": "Heaters",
+            "nickname": "Heaters",
+            "categoryId": [
+                3
+            ],
+            "brands": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "img": "https://avatars.mds.yandex.net/get-mpic/11402506/2a0000018b4227f9b048bcab71302b5b507d/600x800",
+            "id": 6
+        },
+        {
+            "name": "Microwaves",
+            "nickname": "Microwaves",
+            "categoryId": [
+                3
+            ],
+            "brands": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "img": "https://avatars.mds.yandex.net/get-mpic/4120567/img_id5567293079095641923.jpeg/600x800",
+            "id": 7
+        },
+        {
+            "name": "Blenders",
+            "nickname": "Blenders",
+            "categoryId": [
+                3
+            ],
+            "brands": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "img": "https://avatars.mds.yandex.net/get-mpic/5221946/img_id8523078320220175717.jpeg/600x800",
+            "id": 8
+        },
+        {
+            "name": "Tablets",
+            "nickname": "Tablets",
+            "categoryId": [
+                2
+            ],
+            "brands": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "img": "https://avatars.mds.yandex.net/get-mpic/1578067/2a0000018bbc56d962f85b4faca38fb0a748/600x800",
+            "id": 9
+        },
+        {
+            "name": "Laptops",
+            "nickname": "Laptops",
+            "categoryId": [
+                2
+            ],
+            "brands": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "img": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/settings/2/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%D0%B8-1638869204798.jpg",
+            "id": 10
+        },
+        {
+            "name": "Monitors",
+            "nickname": "Monitors",
+            "categoryId": [
+                2
+            ],
+            "brands": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "img": "https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/settings/2/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%BE%D1%80%D1%8B-1638869164491.jpg",
+            "id": 11
+        },
+        {
+            "name": "Computer headsets",
+            "nickname": "Computer headsets",
+            "categoryId": [
+                2
+            ],
+            "brands": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "img": "https://avatars.mds.yandex.net/get-mpic/4303516/2a0000018ab1cdef77688cc1f8a5634e2b2a/600x800",
+            "id": 12
+        }
+    ]

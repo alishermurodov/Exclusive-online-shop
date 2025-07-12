@@ -81,7 +81,7 @@ const VisitProduct = () => {
       // console.log(product);
     }
   }
-
+  
   //translation
   const { t, i18n } = useTranslation()
 

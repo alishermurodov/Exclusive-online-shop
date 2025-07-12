@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "electonic",
+      "img": "uploads\\1699674959988.webp"
+    },
+    {
+      "id": 2,
+      "name": "computer technology",
+      "img": "uploads\\1699675063474.jpg"
+    },
+    {
+      "id": 3,
+      "name": "appliances",
+      "img": "uploads\\1699849349952.jpg"
+    }
+  ]

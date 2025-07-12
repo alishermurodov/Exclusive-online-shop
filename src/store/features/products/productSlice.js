@@ -1,9 +1,14 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit"
 import { json } from "react-router-dom"
 
-const ApiProducts = 'http://localhost:3000/products'
-const ApiSubcategories = 'http://localhost:3000/subCategories'
-const ApiBrands = 'http://localhost:3000/brands'
+// const ApiProducts = 'http://localhost:3000/products'
+// const ApiSubcategories = 'http://localhost:3000/subCategories'
+// const ApiBrands = 'http://localhost:3000/brands'
+
+const ApiProducts = '/products.json'
+const ApiSubcategories = '/subCategories.json'
+const ApiBrands = '/brands.json'
+
 
 //cartList from localstorage
 const items = localStorage.getItem('cartList') != null ? JSON.parse(localStorage.getItem('cartList')) : []
@@ -66,18 +71,32 @@ export const getSubcategories = createAsyncThunk(
 )
 
 //getProductByID
+// export const getProductByID = createAsyncThunk(
+//     "products/getProductByID",
+//     async (id) => {
+//         try {
+//             const response = await fetch(`${ApiProducts}/${id}`)
+//             const responseData = await response.json()
+//             return responseData
+//         } catch (error) {
+//             console.error('error: ', error);
+//         }
+//     }
+// )
 export const getProductByID = createAsyncThunk(
     "products/getProductByID",
     async (id) => {
         try {
-            const response = await fetch(`${ApiProducts}/${id}`)
-            const responseData = await response.json()
-            return responseData
+            const response = await fetch('/products.json');
+            const data = await response.json();
+            const foundProduct = data.find(product => product.id === Number(id));
+            return foundProduct;
         } catch (error) {
-            console.error('error: ', error);
+            console.error('Error fetching product by ID:', error);
         }
     }
-)
+);
+
 
 //getBrands
 export const getBrands = createAsyncThunk(
