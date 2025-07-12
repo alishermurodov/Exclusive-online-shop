@@ -14,7 +14,6 @@ import ProductsByCategory from './pages/productsByCategory/ProductsByCategory'
 import NotFound from './pages/NotFound/NotFound'
 
 function App() {
-  console.log();
   
 
   const router = createBrowserRouter([

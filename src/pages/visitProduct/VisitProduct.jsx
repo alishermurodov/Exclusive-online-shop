@@ -40,7 +40,6 @@ const VisitProduct = () => {
     : [];
 
   const [selectedImg, setSelectedImg] = useState()
-  console.log();
 
 
   useEffect(() => {
